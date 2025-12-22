@@ -1,6 +1,10 @@
+<center>
+
 # Anshuman Singh
 
-[![Email](https://img.shields.io/badge/Email-anshumanr22%40outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:anshumanr22@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshumansingh2023-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshumansingh2023/) [![Location](https://img.shields.io/badge/Location-Gurugram-555555)](https://www.google.com/maps/search/Gurugram)
+[![Email](https://img.shields.io/badge/Email-anshumanr22%40outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:anshumanr22@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshumansingh2023-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshumansingh2023/) [![Location](https://img.shields.io/badge/Location-Gurgaon,India-555555)](https://www.google.com/maps/search/Gurgaon+India)
+
+</center>
 
 Machine Learning & Data Science student (B.Tech Computer Science — AI & ML specialization) with hands-on experience delivering end-to-end solutions: data collection, feature engineering, model training, evaluation, and lightweight deployment. CGPA: 9.44/10.
 
@@ -61,4 +65,6 @@ Seeking roles in Data Science, ML Engineering, or Software.
 
 ## Source
 
-This README was generated from the repository's `index.html` resume file. For the PDF version, see the project file: [<strong>Resume</strong>](su_resume.pdf)
+This README was generated from the repository's `resume.pdf` file. 
+
+For the original PDF version, see the project file: [<strong>Resume</strong>](su_resume.pdf)
