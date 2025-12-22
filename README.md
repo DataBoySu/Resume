@@ -1,10 +1,6 @@
-<center>
-
 # Anshuman Singh
 
 [![Email](https://img.shields.io/badge/Email-anshumanr22%40outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:anshumanr22@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshumansingh2023-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshumansingh2023/) [![Location](https://img.shields.io/badge/Location-Gurgaon,India-555555)](https://www.google.com/maps/search/Gurgaon+India)
-
-</center>
 
 Machine Learning & Data Science student (B.Tech Computer Science — AI & ML specialization) with hands-on experience delivering end-to-end solutions: data collection, feature engineering, model training, evaluation, and lightweight deployment. CGPA: 9.44/10.
 
