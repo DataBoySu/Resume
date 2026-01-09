@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-DataBoySu-181717?logo=github&logoColor=white)](https://github.com/DataBoySu)
 [![Email](https://img.shields.io/badge/Email-anshumanr22%40outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:anshumanr22@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshumansingh2023-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshumansingh2023/)
-[![Resume](https://img.shields.io/badge/Resume-HTML-4B5563?logo=readme&logoColor=white)](su_resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-4B5563?logo=readme&logoColor=white)](su_resume.pdf)
 
 **Aspiring AI Researcher & Engineer** | Research Internships & Applied AI
 
