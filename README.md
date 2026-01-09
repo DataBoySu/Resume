@@ -75,7 +75,7 @@
 - Built a privacy-first CI pipeline that runs fully on GitHub runners (no API keys), generating 20+ README translations per repository
 - Sped up runs via parallel jobs and model-weight caching; added post-processing + structural validation to preserve code blocks and markdown structure
 
-### Streax Bot | Reddit Hackathon
+### StreaxBot | Reddit Hackathon
 
 - Built for the Reddit Devvit Hackathon: a topic-based quiz experience with daily play limits and leaderboards to drive repeat engagement
 - Designed for non-repetitive content and responsiveness using caching strategies and LLM-generated question pipelines
