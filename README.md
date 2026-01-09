@@ -100,13 +100,13 @@
 - Selected among top 50 teams nationally
 - Building a nation-wide client–server network for information dispersal through multiple end-point modes *(kept intentionally high-level)*
 
-### CodeSangam Hackathon (Healthcare Track — 3rd Place) — Feb 2024
+### ##### Hackathon (Healthcare Track — 3rd Place) — Feb 2024
 
 - Led a team of 4 and shipped an end-to-end ML-powered web app prototype in 48 hours
 - Built an Ayurveda-based diagnosis and treatment recommendation system; achieved **92%** accuracy
 - Owned data collection (web scraping + synthetic data generation), model training (Random Forest), evaluation, and deployment
 
-### AIFusion Hackathon (Special Recognition) — Fall 2024
+### ##### Hackathon (Special Recognition) — Fall 2024
 
 - Led a team of 5; recognized by judges for methodology, execution, and presentation
 - Built a LightGBM stacking classifier on 20K+ loan records and achieved **92.8%** accuracy
